@@ -1,14 +1,10 @@
 ### Terminal basic commands
 
-. --- current directory
-
-.. --- parent directory
-
-open --- tells the OS to open whatever the target is, e.g. 'open .' or 'open file.txt'
-
-cd --- change directory to target directory, e.g. 'cd Desktop/' or 'cd .' 'cd' by itself will change the directory to the root user folder.
-
-ls --- list the files in the current or target directory
+* '.' - the current directory
+* '..' - the parent directory
+* 'open' - tells the OS to open whatever the target is, e.g. 'open .' or 'open file.txt'
+* 'cd' - change directory to target directory, e.g. 'cd Desktop/' or 'cd .' 'cd' by itself will change the directory to the root user folder.
+* 'ls' - list the files in the current or target directory
 
 ### Steps to get a git repo onto github
 
