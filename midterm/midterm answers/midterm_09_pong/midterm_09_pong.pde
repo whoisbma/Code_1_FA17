@@ -53,14 +53,13 @@ void draw() {
 
 void keyPressed() {
   if (key == CODED) {
-    if (key == UP) {
+    if (keyCode == UP) {
       p2Up = true;
     }
-    if (key == DOWN) {
+    if (keyCode == DOWN) {
       p2Down = true;
     }
   } else {
-
     if (key == 'w') {
       p1Up = true;
     }
