@@ -12,7 +12,7 @@ void draw() {
   
   for (int i = 0; i < particles.size(); i++) {
     Particle p = particles.get(i);
-    p.addAttract(mouseX, mouseY);
+    p.addAttract(mouseX, mouseY, 10);
     p.update();
     p.display();
     
